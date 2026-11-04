@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- `data/profile` 新增 `quanttide-academy/index.md`（实训基地教学实习模式的营销，自日志提炼）
 - `data/profile` 的 `quanttide-tech/index.md` 补 2026-11-03 日志增量（营销三部分、第二大脑优先级、渠道选型）
 - 营销日志续迁：`data/journal` 收 2026-11-03（营销第二大脑），自 quanttide-meta 再次迁入
 - 《同理心》自 `data/profile` 归位至 `data/insight`；`data/profile` 新增 `quanttide-tech/index.md`（内容、活动、渠道，自 5 篇营销日志提炼）
