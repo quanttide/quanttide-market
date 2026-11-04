@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- 营销日志续迁：`data/journal` 收 2026-11-03（营销第二大脑），自 quanttide-meta 再次迁入
 - 《同理心》自 `data/profile` 归位至 `data/insight`；`data/profile` 新增 `quanttide-tech/index.md`（内容、活动、渠道，自 5 篇营销日志提炼）
 - 迁入营销冷启动素材：`data/journal` 5 篇日志（2026-08-20 ~ 2026-10-09）与 `data/profile`《同理心》，自 quanttide-meta 域迁入，源侧不留副本
 - 注册全套 20 类标准资产子模块（照量潮第二大脑资产类别的 20 类定义）：`apps/qtcloud-market`（云平台）、`packages/quanttide-market-toolkit`（标准库）、`examples/quanttide-market-lab`（实验室）、`data/` 十一个（context 及本轮新增 archive、brochure、history、insight、intention、journal、library、profile、report、roadmap）、`docs/` 六个（tutorial 及本轮新增 bylaw、essay、gallery、handbook、specification）
