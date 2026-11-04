@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- `data/profile` 的 `quanttide-tech/index.md` 补 2026-11-03 日志增量（营销三部分、第二大脑优先级、渠道选型）
 - 营销日志续迁：`data/journal` 收 2026-11-03（营销第二大脑），自 quanttide-meta 再次迁入
 - 《同理心》自 `data/profile` 归位至 `data/insight`；`data/profile` 新增 `quanttide-tech/index.md`（内容、活动、渠道，自 5 篇营销日志提炼）
 - 迁入营销冷启动素材：`data/journal` 5 篇日志（2026-08-20 ~ 2026-10-09）与 `data/profile`《同理心》，自 quanttide-meta 域迁入，源侧不留副本
