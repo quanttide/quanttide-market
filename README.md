@@ -4,17 +4,13 @@
 
 营销管理——管理内容、活动、渠道等。
 
-## 数据
+## 目录
 
-| 路径 | 说明 |
-|------|------|
-| `data/context` | 营销管理语境 (git submodule → quanttide-context-of-market-management) |
-
-## 文档
-
-| 路径 | 说明 |
-|------|------|
-| `docs/tutorial` | 营销管理教程 (git submodule → quanttide-tutorial-of-market-management) |
+- `apps/` — 平台：qtcloud-market（量潮营销云平台）
+- `packages/` — 标准库：quanttide-market-toolkit
+- `examples/` — 实验室：quanttide-market-lab
+- `data/` — 陈述性记忆：archive、brochure、context、history、insight、intention、journal、library、profile、report、roadmap
+- `docs/` — 程序性记忆：bylaw、essay、gallery、handbook、specification、tutorial
 
 ## 许可
 
